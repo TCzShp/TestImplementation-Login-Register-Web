@@ -1,0 +1,11 @@
+.navbar-dark .navbar-toggler-icon, .navbar-light .navbar-toggler-icon {
+    background-image: url(../rsc/menu-icon.svg);
+}
+
+.navbar-toggler-icon{
+    filter: invert(100%);
+}
+
+.navbar-toggler-icon:hover{
+    fill: purple;
+}
